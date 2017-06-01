@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to The DOH!"
+title:  "Joe Doh's First Public Website"
 date:   2017-06-01 15:32:01 +0000
 categories: jekyll update
 ---
